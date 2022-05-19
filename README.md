@@ -1,4 +1,4 @@
-# content-based-movie-recommendation using Python
+# Content-based-movie-recommendation using Python
 Downloaded the dataset from www.kaggle.com containing the information for 5000 movies. 
 
 link to datasets(download both):
