@@ -7,7 +7,8 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credit
 
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
 
-
+# streamlit run webapp.py  
+to run the project
 
 
 Images:
