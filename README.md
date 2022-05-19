@@ -9,7 +9,7 @@ https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credit
 
 
 # streamlit run webapp.py  
-to run the project.
+Use the above command to run the project.
 
 
 
